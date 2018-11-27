@@ -10,7 +10,7 @@ Pasos para ejecutar correctamente la aplicación.
 - /config
 - /log
 
-4. En la ruta [Unidad]:\LoggingUtil\config\ copiar el archivo logging-init.properties de la ruta y agregar el siguiente contenido
+4. En la ruta [Unidad]:\LoggingUtil\config\ copiar el archivo logging-init.properties del repo
 
 5. En la ruta [Unidad]:\LoggingUtil\log\ crear el archivo logapp.log
 
