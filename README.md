@@ -10,18 +10,7 @@ Pasos para ejecutar correctamente la aplicación.
 - /config
 - /log
 
-4. En la ruta [Unidad]:\LoggingUtil\config\ crear el archivo logging-init.properties y agregar el siguiente contenido
-#Valores fijo para la aplicacion Loggin-Util 
-logging.to=CONSOLE
-logging.level=WARNING
-
-logging.path.file=D:\\LoggingUtil\\log\\logapp.log
-
-logging.db.hostname=[Agregar el host de la BD a la que se desea conectar]
-logging.db.port=[Agregar el puerto de la BD a la que se desea conectar]
-logging.db.user=[Agregar el usuario de la BD a la que se desea conectar]
-logging.db.sid=[Agregar el SID de la BD a la que se desea conectar]
-logging.db.password=[Agregar el password de la BD a la que se desea conectar]
+4. En la ruta [Unidad]:\LoggingUtil\config\ copiar el archivo logging-init.properties de la ruta y agregar el siguiente contenido
 
 5. En la ruta [Unidad]:\LoggingUtil\log\ crear el archivo logapp.log
 
